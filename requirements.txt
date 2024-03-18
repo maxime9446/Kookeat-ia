@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+tensorflow
+numpy
+Pillow
+python-multipart
